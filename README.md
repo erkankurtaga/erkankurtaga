@@ -80,9 +80,3 @@
 * E‑posta: erkan.kurtaga \[at] example.com (GitHub profilinde mail adresini paylaşmak istemezsen bu satırı kaldır)
 
 ---
-
-### Kopyala‑Yapıştır Notları
-
-* Bu dosyayı `erkankurtaga/erkankurtaga` isimli **özel bir repo**ya `README.md` olarak ekle. (GitHub profil README’si kuralı)
-* “İstatistikler” bölümündeki görseller üçüncü parti servislerden gelir; görünmezse silinebilir.
-* “Öne Çıkanlar” bölümündeki rozet için `SDET3` repo yolunu değiştirmeyi unutma.
