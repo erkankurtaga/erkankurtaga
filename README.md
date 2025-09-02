@@ -41,8 +41,6 @@
   Basit CRUD/galeri uygulaması; QA gözüyle test checklist’i ve örnek testler.
   [Repo](https://github.com/erkankurtaga/lenslight)
 
-> Profil sayfana **Pinned repositories** kısmına: `SDET3`, `Cucumber Boilerplate` (hazır olunca), `lenslight` eklemeni öneririm.
-
 ---
 
 ## 📊 İstatistikler
