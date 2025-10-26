@@ -32,7 +32,7 @@
 
 * **SDET3 – Test Automation Framework**
   Java + Selenium + Rest Assured + POM + CI-ready.
-  [Repo](https://github.com/erkankurtaga/SDET3) · ![CI](https://github.com/erkankurtaga/SDET3/actions/workflows/tests.yml/badge.svg)
+  [Repo](https://github.com/erkankurtaga/SDET3) · [CI](https://github.com/erkankurtaga/SDET3/actions/workflows/tests.yml/badge.svg)
 
 * **Cucumber Boilerplate (plan)**
   Minimal ama şık bir Gherkin → Step → Runner akışı; hooks ve paralel koşum örnekleri.
@@ -75,6 +75,6 @@
 ## 📫 İletişim
 
 * LinkedIn: [linkedin.com/in/erkankurtaga](https://www.linkedin.com/in/erkankurtaga/)
-* E‑posta: erkan.kurtaga \[at] example.com (GitHub profilinde mail adresini paylaşmak istemezsen bu satırı kaldır)
+* E‑posta: erkankurtaga@gmail.com
 
 ---
